@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @giorgiobini
-- :student: B.Sc. in Statistics; M.Sc. in Data Science
+- :student: B.Sc. in Statistics; M.Sc. in Data Science 
 - 📫 You can contact me at giorgio.bini13@gmail.com
 
 <!---
