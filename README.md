@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giorgiobini
 - :student: B.Sc. in Statistics; M.Sc. in Data Science 
-- :whale2: Docker Hub
+- :whale2: Docker Hub: https://hub.docker.com/u/giorgiobini
 - 📫 You can contact me at giorgio.bini13@gmail.com
 
 <!---
